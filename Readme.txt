@@ -1,0 +1,1 @@
+This sw is developed to control and gather data from PLC Siemens 410-5h and 1500 series
