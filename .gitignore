@@ -1,16 +1,21 @@
-!Add3/
-
 !Add2/
 Add2/*
 !Add2/F1/
 Add2/F1/*
 !Add2/F2/
 
+!Trial_Ivan_S7.Net/
+Trial_Ivan_S7.Net/*
+!Trial_Ivan_S7.Net/obj/
+Trial_Ivan_S7.Net/obj/*
+!Trial_Ivan_S7.Net/obj/
+
+
 # for solution
 .vs/
 PackageMY/
 packages/
 Sharp7_Library/
-Trial_Ivan_S7.Net/
+
 Sources/
 Trial_Ivan_S7.Net.sln
