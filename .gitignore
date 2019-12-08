@@ -8,7 +8,7 @@ Add2/F1/*
 Trial_Ivan_S7.Net/*
 !Trial_Ivan_S7.Net/obj/
 Trial_Ivan_S7.Net/obj/*
-!Trial_Ivan_S7.Net/obj/
+
 
 
 # for solution
@@ -16,6 +16,5 @@ Trial_Ivan_S7.Net/obj/*
 PackageMY/
 packages/
 Sharp7_Library/
-
 Sources/
 Trial_Ivan_S7.Net.sln
